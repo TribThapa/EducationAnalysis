@@ -7,7 +7,7 @@ This project aimed to analyse and build a Machine Lerning model for student perf
 <p>&nbsp;</p>
 
 <p align="center">
-    	<img src="/Images/GenderSplit.png" width="500" height="300">
+    	<img src="/Images/GenderSplit.png">
 </p>
 
 
