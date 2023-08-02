@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This project aimed to analyse and build a Machine Lerning model for student performance data. 
+This project aimed to analyse and build a Machine Learning model for student performance data. 
 
 ## Data insights
 - There are 1000 students in total. 
