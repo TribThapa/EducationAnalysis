@@ -14,31 +14,31 @@ This project aimed to analyse and build a Machine Lerning model for student perf
 <p>&nbsp;</p>
 
 <p align="center">
-    	<img src="/Images/Race_EthinicitySplit.png" width="500" height="300">
+    	<img src="/Images/Race_EthinicitySplit.png" width="650" height="400">
 </p>
 
 
 <p>&nbsp;</p>
 
 <p align="center">
-    	<img src="/Images/ViolinPlots.png" width="500" height="300">
+    	<img src="/Images/ViolinPlots.png" width="650" height="400">
 </p>
 
 <p>&nbsp;</p>
 
 <p align="center">
-    	<img src="/Images/Pies.png" width="500" height="300">
+    	<img src="/Images/Pies.png" width="650" height="400">
 </p>
 
 <p>&nbsp;</p>
 
 <p align="center">
-    	<img src="/Images/CompareParentalEducation.png" width="500" height="300">
+    	<img src="/Images/CompareParentalEducation.png" width="650" height="400">
 </p>
 
 
 <p>&nbsp;</p>
 
 <p align="center">
-    	<img src="/Images/ParentalEducation_StudentPerformance.png" width="500" height="300">
+    	<img src="/Images/ParentalEducation_StudentPerformance.png" width="650" height="400">
 </p>
